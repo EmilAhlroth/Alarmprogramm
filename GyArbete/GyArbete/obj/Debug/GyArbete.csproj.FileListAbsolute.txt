@@ -1,0 +1,10 @@
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\bin\Debug\GyArbete.exe.config
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\bin\Debug\GyArbete.exe
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\bin\Debug\GyArbete.pdb
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\obj\Debug\GyArbete.csprojAssemblyReference.cache
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\obj\Debug\GyArbete.Form1.resources
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\obj\Debug\GyArbete.Properties.Resources.resources
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\obj\Debug\GyArbete.csproj.GenerateResource.cache
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\obj\Debug\GyArbete.csproj.CoreCompileInputs.cache
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\obj\Debug\GyArbete.exe
+C:\Users\emil.ahlroth\Documents\Visual Studio 2017\Projects\GyArbete\GyArbete\obj\Debug\GyArbete.pdb
